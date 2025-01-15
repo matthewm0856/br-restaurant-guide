@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## [Chinese](asian/asian.md)
-## Japanese
-## Thai
+## [Chinese](chinese.md)
+## [Japanese](japanese.md)
+## [Thai](Thai.md)
 ---
 Start Over
